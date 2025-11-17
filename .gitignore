@@ -10,3 +10,4 @@ wheels/
 .venv
 jina-reranker-v3-Q8_0.gguf
 projector.safetensors
+llama.cpp/
