@@ -1,0 +1,12 @@
+[project]
+name = "jinareranker"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter>=1.1.1",
+    "notebook>=7.4.7",
+    "numpy>=2.3.5",
+    "safetensors>=0.6.2",
+]
